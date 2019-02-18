@@ -11,6 +11,7 @@
             <option value="$PROJECT_DIR$/BodyAR2D" />
             <option value="$PROJECT_DIR$/HandAR" />
             <option value="$PROJECT_DIR$/WorldAR_Java" />
+            <option value="$PROJECT_DIR$/engine" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
