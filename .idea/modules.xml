@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BodyAR2D/BodyAR2D.iml" filepath="$PROJECT_DIR$/BodyAR2D/BodyAR2D.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HandAR/HandAR.iml" filepath="$PROJECT_DIR$/HandAR/HandAR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSample.iml" filepath="$PROJECT_DIR$/JavaSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WorldAR_Java/WorldAR_Java.iml" filepath="$PROJECT_DIR$/WorldAR_Java/WorldAR_Java.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,4 @@
+#Mon Feb 18 08:43:52 CST 2019
+base.0=/Users/silverlin/Desktop/AR Projects/JavaSample/WorldAR_Java/build/intermediates/transforms/dexMerger/debug/9
+path.0=classes.dex
+renamed.0=classes.dex
