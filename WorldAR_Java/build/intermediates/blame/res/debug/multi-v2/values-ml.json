@@ -4,7 +4,7 @@
             "outputFile": "/Users/silverlin/Desktop/AR Projects/JavaSample/WorldAR_Java/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ml/values-ml.xml",
             "map": [
                 {
-                    "source": "/Users/silverlin/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/b20190b766add910d8f37bc1a2c9227d/res/values-ml/values-ml.xml",
+                    "source": "/Users/silverlin/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/b5748d764a99473ce6851a28f65596ba/res/values-ml/values-ml.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/silverlin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/4eed8abe0ef206b0b19ce01aab8c72fb/res/values-ml/values-ml.xml",
+                    "source": "/Users/silverlin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3bb45f41efb458ce0a9fd39c5f2b89e8/res/values-ml/values-ml.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/HandAR/HandAR.iml" filepath="$PROJECT_DIR$/HandAR/HandAR.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSample.iml" filepath="$PROJECT_DIR$/JavaSample.iml" />
       <module fileurl="file://$PROJECT_DIR$/WorldAR_Java/WorldAR_Java.iml" filepath="$PROJECT_DIR$/WorldAR_Java/WorldAR_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/engine/engine.iml" filepath="$PROJECT_DIR$/engine/engine.iml" />
     </modules>
   </component>
 </project>

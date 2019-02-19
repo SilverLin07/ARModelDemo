@@ -22,7 +22,7 @@
         android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.huawei.hiardemo.java.MainActivity"
+            android:name="com.huawei.hiardemo.java.RenderActivity"
             android:configChanges="orientation|screenSize"
             android:label="@string/app_name"
             android:theme="@style/Theme.AppCompat.NoActionBar" >
@@ -35,7 +35,7 @@
 
         <meta-data
             android:name="com.huawei.ar.engine"
-            android:value="required" />
+            android:value="optional" />
         <meta-data
             android:name="hwc-theme"
             android:value="androidhwext:style/Theme.Emui" />
@@ -46,10 +46,6 @@
             android:excludeFromRecents="true"
             android:exported="false"
             android:launchMode="singleTop" />
-
-        <meta-data
-            android:name="android.arch.lifecycle.VERSION"
-            android:value="27.0.0-SNAPSHOT" />
     </application>
 
 </manifest>

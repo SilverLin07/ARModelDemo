@@ -1,0 +1,4 @@
+#Mon Feb 18 11:14:27 CST 2019
+base.0=/Users/silverlin/Desktop/AR Projects/JavaSample/HandAR/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
